@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Ocean Structures"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "legacy_uid": "bf7ed33b-a579-42c7-21e7-8dc6bca88dfb",
+  "instructors": {
+    "content": [
+      "a74e684e-a6d5-b89f-e08d-33401dfd9a19"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5cc85d06-9ff4-e35a-ba43-3348510c72f3",
+    "website": "2-22-design-principles-for-ocean-vehicles-13-42-spring-2005"
+  },
+  "course_title": "Design Principles for Ocean Vehicles (13.42)",
+  "course_description": "The course covers the basic techniques for evaluating the maximum forces and loads over the life of a marine structure or vehicle, so as to be able to design its basic configuration. Loads and motions of small and large structures and their short-term and long-term statistics are studied in detail and many applications are presented in class and studied in homework and laboratory sessions. Issues related to seakeeping of ships are studied in detail. The basic equations and issues of maneuvering are introduced at the end of the course. Three laboratory sessions demonstrate the phenomena studied and provide experience with experimental methods and data processing.\n\nThis course was originally offered in Course 13 (Ocean Engineering) as 13.42.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.22",
+  "course_image_thumbnail": {
+    "content": "d095c522-bfbe-83e7-b3b8-53061d1a6906",
+    "website": "2-22-design-principles-for-ocean-vehicles-13-42-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Projects"
+  ],
+  "site_uid": "12ae1b36-a0ca-43c2-af50-43ffd9e4d91a",
+  "site_short_id": "2.22-spring-2005",
+  "site_url_path": "courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005",
+  "title": "Course Metadata"
+}
